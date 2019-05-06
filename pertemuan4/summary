@@ -1,0 +1,45 @@
+yang akan dipelajari:
+Image
+    - struktur dasar Image
+    - alt atribut
+    - width dan height
+    - image pada folder yg beda
+    - image dari folder online
+    - image sebagai link
+    - image float
+    - background-image
+
+form
+    - struktur form
+    - input elemen : text, radio, submit
+    - form elemen: input, select, textarea, button, datalist
+    - input atribut: value, readonly, disabled, size, maxlength
+    - input type: 
+                <input type="button">
+                <input type="checkbox">
+                <input type="color">
+                <input type="date">
+                <input type="datetime-local">
+                <input type="email">
+                <input type="file">
+                <input type="hidden">
+                <input type="image">
+                <input type="month">
+                <input type="number">
+                <input type="password">
+                <input type="radio">
+                <input type="range">
+                <input type="reset">
+                <input type="search">
+                <input type="submit">
+                <input type="tel">
+                <input type="text">
+                <input type="time">
+                <input type="url">
+                <input type="week">
+
+
+
+<form>
+isi
+</form>
