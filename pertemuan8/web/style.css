@@ -1,0 +1,50 @@
+.jumbotron img {
+    height: 200px;
+    border: 5px solid #666;
+}
+
+.judul {
+    padding-top: 10px;
+}
+
+.teks {
+    text-align: justify;
+
+    font-size: 16px;
+}
+
+
+hr {
+    width: 250px;
+    border-top: 3px solid #999
+}
+
+section {
+    min-height: 600px;
+}
+
+.portofolio {
+    margin-top: 30px;
+    background-color: #eee;
+    margin-bottom: 30px;
+}
+
+.contact {
+    margin-top: 30px;
+}
+
+.porto2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+footer {
+    background-color: #333;
+    height: 50px;
+}
+
+.teks_footer {
+    margin-top: 15px;
+    color: white;
+    margin-bottom: 0px;
+}
